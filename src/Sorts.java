@@ -28,4 +28,11 @@ public class Sorts
             System.out.print(num + " ");
         System.out.println();
     }
+
+    public static void printStringArr(String[] arr)
+    {
+        for (String str: arr)
+            System.out.print(str + " ");
+        System.out.println();
+    }
 }

@@ -10,5 +10,9 @@ public class Test
         Sorts.printArr(arr1);
         System.out.println();
 
+        String[] arr2 = { "Andrew" , "Sandra", "Linda", "Calvin", "Jordan"};
+        Sorts.printStringArr(arr2);
+        System.out.println();
+
     }
 }
